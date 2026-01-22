@@ -8,7 +8,7 @@ Collect runes, avoid the Echo, perform the ritual, and escape the Hollow.
 ## ▶ Play the Game
 
 👉 **Play here:**  
-https://YOURUSERNAME.github.io/where-the-runes-whisper/
+https://areena0.github.io/where-the-runes-whisper/
 
 ---
 
