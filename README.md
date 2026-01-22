@@ -1,7 +1,10 @@
-# Where-the-Runes-Whisper
+<p align="center">
+  <img src="header.png" width="800">
+</p>
 
+# Where the Runes Whisper
 ## About
-Where the Runes Whisper is a browser-based psychological horror maze game built with Phaser 3.  
+Where the Runes Whisper is a browser-based horror maze game built with Phaser 3.  
 Collect runes, avoid the Echo, perform the ritual, and escape the Hollow.
 
 
@@ -13,7 +16,7 @@ Collect runes, avoid the Echo, perform the ritual, and escape the Hollow.
 ---
 
 ## Controls
-- Move: WASD / Arrow Keys
-- Sprint: Shift
-- Interact: E
-- Restart: Refresh the browser page
+- <b>Move:</b> WASD / Arrow Keys
+- <b>Sprint:</b> Shift
+- <b>Interact:</b> E
+- <b>Restart:</b> Refresh the browser page
